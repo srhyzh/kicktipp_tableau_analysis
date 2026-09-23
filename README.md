@@ -129,7 +129,7 @@ The selection dynamically updates:
 
 The dashboard also tracks the selected participant's ranking across rounds.
 
-For additional context, the rank trajectories of the **current Top 5 predictors** are shown in the background.
+For additional context, the rank trajectories of the **current top predictor** are shown in the background.
 
 This makes it possible to see whether a participant:
 
