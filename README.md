@@ -64,8 +64,8 @@ Predictors therefore selected home wins considerably more often than they actual
 
 ### Current KPIs
 
-* **49.0%** outcome accuracy
-* **7.6%** exact score rate
+* **30.96%** outcome accuracy
+* **7.41%** exact score rate
 * **97.9%** prediction submission rate
 
 The dashboard also shows how prediction accuracy changed across the nine rounds.
@@ -76,7 +76,7 @@ The dashboard also shows how prediction accuracy changed across the nine rounds.
 
 The second dashboard shifts the focus from matches to the individual predictors.
 
-![Dashboard 2](data/dashboard02)
+![Dashboard 2](dashboard02.png)
 
 The goal is not only to identify who collected the most points, but to understand **how different predictors perform**.
 
