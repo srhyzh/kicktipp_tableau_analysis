@@ -40,7 +40,7 @@ This makes it possible to analyze the data at multiple levels, including:
 
 The first dashboard focuses on the overall prediction behavior of the group.
 
-![Dashboard 1](dashboard01.png)
+![Dashboard 1](data/dashboard01.png)
 
 ### Key questions
 
@@ -76,7 +76,7 @@ The dashboard also shows how prediction accuracy changed across the nine rounds.
 
 The second dashboard shifts the focus from matches to the individual predictors.
 
-![Dashboard 2](dashboard02.png)
+![Dashboard 2](data/dashboard02.png)
 
 The goal is not only to identify who collected the most points, but to understand **how different predictors perform**.
 
