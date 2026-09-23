@@ -40,7 +40,7 @@ This makes it possible to analyze the data at multiple levels, including:
 
 The first dashboard focuses on the overall prediction behavior of the group.
 
-![Dashboard 1](main/data/dashboard01.png)
+![Dashboard 1](dashboard01.png)
 
 ### Key questions
 
@@ -64,8 +64,8 @@ Predictors therefore selected home wins considerably more often than they actual
 
 ### Current KPIs
 
-* **49.0%** outcome accuracy
-* **7.6%** exact score rate
+* **30.96%** outcome accuracy
+* **7.41%** exact score rate
 * **97.9%** prediction submission rate
 
 The dashboard also shows how prediction accuracy changed across the nine rounds.
@@ -76,7 +76,7 @@ The dashboard also shows how prediction accuracy changed across the nine rounds.
 
 The second dashboard shifts the focus from matches to the individual predictors.
 
-![Dashboard 2](data/dashboard02.png)
+![Dashboard 2](dashboard02.png)
 
 The goal is not only to identify who collected the most points, but to understand **how different predictors perform**.
 
@@ -129,7 +129,7 @@ The selection dynamically updates:
 
 The dashboard also tracks the selected participant's ranking across rounds.
 
-For additional context, the rank trajectories of the **current Top 5 predictors** are shown in the background.
+For additional context, the rank trajectories of the **current top predictor** are shown in the background.
 
 This makes it possible to see whether a participant:
 
