@@ -40,7 +40,7 @@ This makes it possible to analyze the data at multiple levels, including:
 
 The first dashboard focuses on the overall prediction behavior of the group.
 
-![Dashboard 1](data/dashboard01.png)
+![Dashboard 1](main/data/dashboard01.png)
 
 ### Key questions
 
